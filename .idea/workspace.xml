@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cc4b049-b645-4173-ad45-9270faf67bb9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/revert3.ts" beforeDir="false" afterPath="$PROJECT_DIR$/revert3.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/revert2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/revert2.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
