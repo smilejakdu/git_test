@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="c08bf08e-88c4-448d-a32d-3cf8faa4abd3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/revert3.ts" beforeDir="false" afterPath="$PROJECT_DIR$/revert3.ts" afterDir="false" />
-=======
     <list default="true" id="1cc4b049-b645-4173-ad45-9270faf67bb9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/revert2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/revert2.ts" afterDir="false" />
->>>>>>> parent of 124240e (콘솔 원)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679040320470</updated>
       <workItem from="1679040322039" duration="903000" />
-<<<<<<< HEAD
       <workItem from="1679106730506" duration="4908000" />
-=======
->>>>>>> parent of 124240e (콘솔 원)
     </task>
     <servers />
   </component>
